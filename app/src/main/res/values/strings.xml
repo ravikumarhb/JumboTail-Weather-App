@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JumboTail Weather App</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+    <string name="location_updated_message">Location updated</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="details_card_title">Details</string>
+    <string name="humidity">Humidity: </string>
+    <string name="uv_intensity">UV Intensity: </string>
+    <string name="max_temp">Max: </string>
+    <string name="min_temp">Min: </string>
+    <string name="speed">Speed: </string>
+    <string name="last_update">Last update: </string>
+
+    <string name="date">Date</string>
+    <string name="weather">Weather</string>
+    <string name="min_temperature">Min</string>
+    <string name="max_temperature">Max</string>
+
+    <string-array name="uv_range_desc">
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>High</item>
+        <item>Very high</item>
+        <item>Extreme</item>
+    </string-array>
+</resources>
