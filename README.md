@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Location Settings
 =================
 
@@ -84,3 +85,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# JumboTail-Weather-App
+>>>>>>> e13a958c8ff6768330c5d429bc7f69faf75bfd23
